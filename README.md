@@ -2,8 +2,6 @@
 
 A simple JavaScript implementation demonstrating core blockchain concepts: block structure, cryptographic hashing, and chain immutability.
 
-![Blockchain Visualization](https://miro.medium.com/v2/resize:fit:720/format:webp/1*8w4u_knU6l4Tv1REo-d7BQ.png)
-
 ## Features
 - Creates a blockchain with genesis block
 - Adds new blocks with cryptographic linking
